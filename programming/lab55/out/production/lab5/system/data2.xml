@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<collection>
-    <route coordinateX="5.0" coordinateY="6" creationDate="2024-02-26T22:39:11.198837900" distance="45" fromName="long"
-           fromX="3.0" fromY="7.0" fromZ="8" id="3380877" key="a" name="one" toName="itmo" toX="5.0" toY="6.0" toZ="3"/>
-    <route coordinateX="8.0" coordinateY="9" creationDate="2024-02-26T22:40:05.857496300" distance="67" fromName="small"
-           fromX="2.0" fromY="3.0" fromZ="4" id="3467539" key="b" name="two" toName="small" toX="8.0" toY="2.0"
-           toZ="55"/>
-</collection>
